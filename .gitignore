@@ -1,7 +1,11 @@
-/cart/node_modules
-/container/node_modules
-/products/node_modules
 .DS_Store
+
 /cart/.DS_Store
+/cart/node_modules
+
 /container/.DS_Store
+/container/node_modules
+
 /products/.DS_Store
+/products/node_modules
+/products/dist
